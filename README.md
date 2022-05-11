@@ -28,5 +28,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-
+### Workflow 
+![image](https://user-images.githubusercontent.com/63467479/167917199-583c4930-2d07-478e-8742-025b96df7d4f.png)
 This project is built during the [Appwrite Hackathon on Dev](https://dev.to/devteam/announcing-the-appwrite-hackathon-on-dev-1oc0)
